@@ -4,7 +4,7 @@
 #### Or open and run jupyter notebook online with Binder & Google Colab
 
 1. Open jupyter notebook from Binder (slow),
-click [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/xxu2018/Hand-on-unbox-ML/master)
+click [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/xxu2018/Hand-on-unbox-ML/main)
 
 2. Open Google Colab notebook (fast)
 - 2.1 Open `00-KRR-Regression.ipynb`, click
