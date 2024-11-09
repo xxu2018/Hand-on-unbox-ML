@@ -11,6 +11,6 @@ click [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/xxu
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xxu2018/Hand-on-unbox-ML/blob/master/00_KRR_Regression.ipynb)
 
 - 2.2 Open `01_DNN_Regression.ipynb`, click
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xxu2018/Hand-on-unbox-ML/blob/master/01_DNN_Regression.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xxu2018/Hand-on-unbox-ML/blob/master/01_DNN_Prediction.ipynb)
 
 Hand-on workshop on unboxing machine learning
